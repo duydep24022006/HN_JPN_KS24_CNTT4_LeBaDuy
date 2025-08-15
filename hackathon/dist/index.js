@@ -176,7 +176,8 @@ do {
     case 5:
       listCourses(numOfStudents);
       break;
-    case 6:
+      case 6:
+          
       showUserInformation("duy@gmail.com");
       break;
     case 7:
